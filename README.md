@@ -79,10 +79,16 @@ Here are some visuals showcasing the 3D Viewer project in action, demonstrating 
 
 ### Screenshots
 
-| Initial Model Load | Custom Model View |
-|-------------------|-------------------|
-| ![Initial View](src/screenshot/Screenshot1.png) | ![Custom Object](src/docs/screenshot/Screenshot2.png) | ![Skull Object View](src/screenshot/Screenshot4.png) |
-| ![Elephant Model](src/screenshot/Screenshot5.png) |  |
+### Screenshots
+
+| Initial Model Load | Custom Model View | Skull Object View |
+|-------------------|-------------------|-------------------|
+| ![Initial View](src/screenshot/Screenshot1.png) | ![Custom Object](src/screenshot/Screenshot2.png) | ![Skull Object](src/screenshot/Screenshot4.png) |
+
+| Elephant Model |
+|----------------|
+| ![Elephant Model](src/screenshot/Screenshot5.png) |
+
 
 ### GIF Example
 
