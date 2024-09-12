@@ -81,15 +81,15 @@ Here are some visuals showcasing the 3D Viewer project in action, demonstrating 
 
 | Initial Model Load | Custom Model View |
 |-------------------|-------------------|
-| ![Initial View](src/docs/screenshot/Screenshot1.png) | ![Custom Object](src/docs/screenshot/Screenshot2.png) |
-| ![Background Color Change](src/docs/screenshot/Screenshot3.png) | ![Skull Object View](src/docs/screenshot/Screenshot4.png) |
-| ![Elephant Model](src/docs/screenshot/Screenshot5.png) |  |
+| ![Initial View](src/screenshot/Screenshot1.png) | ![Custom Object](src/docs/screenshot/Screenshot2.png) |
+| ![Background Color Change](src/screenshot/Screenshot3.png) | ![Skull Object View](src/screenshot/Screenshot4.png) |
+| ![Elephant Model](src/screenshot/Screenshot5.png) |  |
 
 ### GIF Example
 
 Here is a GIF showing object manipulation:
 
-![Bison Pose Gif](src/docs/gifs/bison_pose.gif)
+![Bison Pose Gif](src/screenshot/bison_pose.gif)
 
 This format beautifully demonstrates the interaction capabilities and control of 3D models within the viewer.
 
