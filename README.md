@@ -79,8 +79,6 @@ Here are some visuals showcasing the 3D Viewer project in action, demonstrating 
 
 ### Screenshots
 
-### Screenshots
-
 | Initial Model Load | Elephant Model | Skull Object View |
 |-------------------|-------------------|-------------------|
 | ![Initial View](src/screenshot/Screenshot1.png) | ![Custom Object](src/screenshot/Screenshot2.png) | ![Skull Object](src/screenshot/Screenshot4.png) |
